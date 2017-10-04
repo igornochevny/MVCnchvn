@@ -1,0 +1,15 @@
+{
+    "name": "igor/mvc",
+    "authors": [
+        {
+            "name": "nchvn",
+            "email": "nchvn@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    }
+}
